@@ -1,0 +1,32 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:preact-render-to-string@6.2.1": "npm:preact-render-to-string@6.2.1_preact@10.15.1",
+      "npm:preact@10.15.1": "npm:preact@10.15.1",
+      "npm:preact@10.18.1": "npm:preact@10.18.1"
+    },
+    "npm": {
+      "preact-render-to-string@6.2.1_preact@10.15.1": {
+        "integrity": "sha512-5t7nFeMUextd53igL3GAakAAMaUD+dVWDHaRYaeh1tbPIjQIBtgJnMw6vf8VS/lviV0ggFtkgebatPxvtJsXyQ==",
+        "dependencies": {
+          "preact": "preact@10.15.1",
+          "pretty-format": "pretty-format@3.8.0"
+        }
+      },
+      "preact@10.15.1": {
+        "integrity": "sha512-qs2ansoQEwzNiV5eAcRT1p1EC/dmEzaATVDJNiB3g2sRDWdA7b7MurXdJjB2+/WQktGWZwxvDrnuRFbWuIr64g==",
+        "dependencies": {}
+      },
+      "preact@10.18.1": {
+        "integrity": "sha512-mKUD7RRkQQM6s7Rkmi7IFkoEHjuFqRQUaXamO61E6Nn7vqF/bo7EZCmSyrUnp2UWHw0O7XjZ2eeXis+m7tf4lg==",
+        "dependencies": {}
+      },
+      "pretty-format@3.8.0": {
+        "integrity": "sha512-WuxUnVtlWL1OfZFQFuqvnvs6MiAGk9UNsBostyBOB0Is9wb5uRESevA6rnl/rkksXaGX3GzZhPup5d6Vp1nFew==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}
